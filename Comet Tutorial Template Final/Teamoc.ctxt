@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Teamoc
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ handleMovement()
+comment3.params=
+comment3.target=void\ applyGravity()
+comment4.params=
+comment4.target=boolean\ isOnGround()
+comment5.params=
+comment5.target=void\ checkPlatformCollision()
+comment6.params=
+comment6.target=void\ collectRings()
+comment7.params=
+comment7.target=void\ checkHazards()
+comment8.params=
+comment8.target=void\ checkGoal()
+numComments=9

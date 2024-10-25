@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TutorialWorld
+comment1.params=
+comment1.target=TutorialWorld()
+comment2.params=
+comment2.target=void\ createPlatforms()
+comment3.params=
+comment3.target=void\ createRings()
+comment4.params=
+comment4.target=void\ createHazards()
+numComments=5
